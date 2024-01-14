@@ -1,0 +1,207 @@
+{
+  "Albania": [
+    {
+      "countryName": "Albania",
+      "countryLogo": "",
+      "city": "Tirana",
+      "childServers": [
+        "tia-c01.vpn.wlvpn.com",
+        "tia-c02.vpn.wlvpn.com",
+        "tia-c04.vpn.wlvpn.com",
+        "tia-c05.vpn.wlvpn.com",
+        "tia-c06.vpn.wlvpn.com",
+        "tia-c07.vpn.wlvpn.com"
+      ],
+      "ping": "",
+      "subServersCount": 6
+    }
+  ],
+  "Argentina": [
+    {
+      "countryName": "Argentina",
+      "countryLogo": "",
+      "city": "Buenos Aires",
+      "childServers": [
+        "eze-c01.vpn.wlvpn.com",
+        "eze-c02.vpn.wlvpn.com",
+        "eze-c03.vpn.wlvpn.com",
+        "eze-c04.vpn.wlvpn.com"
+      ],
+      "ping": "",
+      "subServersCount": 4
+    }
+  ],
+  "Australia": [
+    {
+      "countryName": "Australia",
+      "countryLogo": "",
+      "city": "Adelaide",
+      "childServers": [
+        "adl-c01.vpn.wlvpn.com",
+        "adl-c02.vpn.wlvpn.com",
+        "adl-c03.vpn.wlvpn.com",
+        "adl-c04.vpn.wlvpn.com",
+        "adl-c05.vpn.wlvpn.com",
+        "adl-c06.vpn.wlvpn.com"
+      ],
+      "ping": "",
+      "subServersCount": 6
+    },
+    {
+      "countryName": "Australia",
+      "countryLogo": "",
+      "city": "Brisbane",
+      "childServers": [
+        "bne-c01.vpn.wlvpn.com",
+        "bne-c02.vpn.wlvpn.com",
+        "bne-c03.vpn.wlvpn.com",
+        "bne-c04.vpn.wlvpn.com",
+        "bne-c05.vpn.wlvpn.com",
+        "bne-c06.vpn.wlvpn.com"
+      ],
+      "ping": "",
+      "subServersCount": 6
+    },
+    {
+      "countryName": "Australia",
+      "countryLogo": "",
+      "city": "Melbourne",
+      "childServers": [
+        "mel-b01.vpn.wlvpn.com",
+        "mel-b02.vpn.wlvpn.com",
+        "mel-b03.vpn.wlvpn.com",
+        "mel-b04.vpn.wlvpn.com",
+        "mel-b05.vpn.wlvpn.com",
+        "mel-b06.vpn.wlvpn.com",
+        "mel-b07.vpn.wlvpn.com",
+        "mel-b08.vpn.wlvpn.com",
+        "mel-b09.vpn.wlvpn.com",
+        "mel-b10.vpn.wlvpn.com",
+        "mel-b11.vpn.wlvpn.com",
+        "mel-b12.vpn.wlvpn.com",
+        "mel-b13.vpn.wlvpn.com",
+        "mel-b14.vpn.wlvpn.com",
+        "mel-b15.vpn.wlvpn.com",
+        "mel-b16.vpn.wlvpn.com",
+        "mel-b17.vpn.wlvpn.com",
+        "mel-b18.vpn.wlvpn.com",
+        "mel-b19.vpn.wlvpn.com",
+        "mel-b20.vpn.wlvpn.com",
+        "mel-b21.vpn.wlvpn.com",
+        "mel-b22.vpn.wlvpn.com",
+        "mel-b23.vpn.wlvpn.com"
+      ],
+      "ping": "",
+      "subServersCount": 23
+    },
+    {
+      "countryName": "Australia",
+      "countryLogo": "",
+      "city": "Perth",
+      "childServers": [
+        "per-c01.vpn.wlvpn.com",
+        "per-c02.vpn.wlvpn.com",
+        "per-c03.vpn.wlvpn.com",
+        "per-c04.vpn.wlvpn.com",
+        "per-c05.vpn.wlvpn.com",
+        "per-c06.vpn.wlvpn.com"
+      ],
+      "ping": "",
+      "subServersCount": 6
+    },
+    {
+      "countryName": "Australia",
+      "countryLogo": "",
+      "city": "Sydney",
+      "childServers": [
+        "syd-a01.vpn.wlvpn.com",
+        "syd-a02.vpn.wlvpn.com",
+        "syd-a03.vpn.wlvpn.com",
+        "syd-a04.vpn.wlvpn.com",
+        "syd-a05.vpn.wlvpn.com",
+        "syd-a06.vpn.wlvpn.com",
+        "syd-a07.vpn.wlvpn.com",
+        "syd-a08.vpn.wlvpn.com",
+        "syd-a09.vpn.wlvpn.com",
+        "syd-a10.vpn.wlvpn.com",
+        "syd-a11.vpn.wlvpn.com",
+        "syd-a12.vpn.wlvpn.com",
+        "syd-a13.vpn.wlvpn.com",
+        "syd-a14.vpn.wlvpn.com",
+        "syd-a15.vpn.wlvpn.com",
+        "syd-a16.vpn.wlvpn.com",
+        "syd-a17.vpn.wlvpn.com",
+        "syd-a18.vpn.wlvpn.com",
+        "syd-a19.vpn.wlvpn.com",
+        "syd-a20.vpn.wlvpn.com",
+        "syd-a21.vpn.wlvpn.com",
+        "syd-a22.vpn.wlvpn.com",
+        "syd-a23.vpn.wlvpn.com",
+        "syd-a24.vpn.wlvpn.com",
+        "syd-a25.vpn.wlvpn.com",
+        "syd-a26.vpn.wlvpn.com",
+        "syd-a27.vpn.wlvpn.com",
+        "syd-a28.vpn.wlvpn.com",
+        "syd-a29.vpn.wlvpn.com",
+        "syd-a30.vpn.wlvpn.com"
+      ],
+      "ping": "",
+      "subServersCount": 30
+    }
+  ],
+  "Austria": [
+    {
+      "countryName": "Austria",
+      "countryLogo": "",
+      "city": "Vienna",
+      "childServers": [
+        "vie-c01.vpn.wlvpn.com",
+        "vie-c02.vpn.wlvpn.com",
+        "vie-c03.vpn.wlvpn.com",
+        "vie-c04.vpn.wlvpn.com",
+        "vie-c05.vpn.wlvpn.com",
+        "vie-c06.vpn.wlvpn.com",
+        "vie-c07.vpn.wlvpn.com",
+        "vie-c08.vpn.wlvpn.com",
+        "vie-c09.vpn.wlvpn.com",
+        "vie-c10.vpn.wlvpn.com",
+        "vie-c11.vpn.wlvpn.com",
+        "vie-c12.vpn.wlvpn.com",
+        "vie-c13.vpn.wlvpn.com"
+      ],
+      "ping": "",
+      "subServersCount": 13
+    }
+  ],
+  "Belgium": [
+    {
+      "countryName": "Belgium",
+      "countryLogo": "",
+      "city": "Brussels",
+      "childServers": [
+        "bru-c13.vpn.wlvpn.com",
+        "bru-c14.vpn.wlvpn.com",
+        "bru-c15.vpn.wlvpn.com",
+        "bru-c16.vpn.wlvpn.com",
+        "bru-c17.vpn.wlvpn.com",
+        "bru-c18.vpn.wlvpn.com",
+        "bru-c19.vpn.wlvpn.com",
+        "bru-c20.vpn.wlvpn.com",
+        "bru-c21.vpn.wlvpn.com",
+        "bru-c22.vpn.wlvpn.com",
+        "bru-c23.vpn.wlvpn.com",
+        "bru-c24.vpn.wlvpn.com",
+        "bru-c25.vpn.wlvpn.com",
+        "bru-c26.vpn.wlvpn.com",
+        "bru-c27.vpn.wlvpn.com",
+        "bru-c28.vpn.wlvpn.com",
+        "bru-c29.vpn.wlvpn.com",
+        "bru-c30.vpn.wlvpn.com",
+        "bru-c31.vpn.wlvpn.com",
+        "bru-c32.vpn.wlvpn.com"
+      ],
+      "ping": "",
+      "subServersCount": 20
+    }
+  ]
+}
