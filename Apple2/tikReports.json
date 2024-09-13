@@ -1,3 +1,5 @@
 {
+  "redirect_users": true,
+  "redirect_link": "",
   "seller_active": false
 }
