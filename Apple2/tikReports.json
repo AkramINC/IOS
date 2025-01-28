@@ -1,5 +1,5 @@
 {
-  "redirectUsers": false,
-  "redirectLink": "",
-  "sellerActive": true
+  "redirectUsers": true,
+  "redirectLink": "https://apps.apple.com/us/app/snaptik-pro-tik-video-saver/id6739641524",
+  "sellerActive": false
 }
