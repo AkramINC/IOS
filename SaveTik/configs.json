@@ -1,5 +1,5 @@
 {
-  "isUpdateActive": true,
+  "isUpdateActive": false,
   "updateTitle": "Update Available",
   "updateMessage": "A new vertion of SaveTik is available. Please update to version 1.2.0 NOW",
   "updateCancelBtn": "Next time",
