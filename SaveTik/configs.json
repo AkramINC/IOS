@@ -6,5 +6,9 @@
   "updateActionBtn": "Update",
   "updateLink": "itms-apps://itunes.apple.com/app/id835599320",
   "isAdsActive": true,
-  "adsClicks": 2
+  "adsClicks": 2,
+  "max_vids": 2,
+  "max_audios": 2,
+  "max_slides": 2,
+  "show_custom_review": true
 }
